@@ -27,6 +27,8 @@ Zomato’s database, as seen below, consists of five tables—customers, restaur
 ##### Revenue and Sales Performance:
 
 - The top five dishes account for **37%** of the total revenue over the analysis period. This significant contribution indicates that a small selection of popular items drives a large share of Zomato's income, suggesting opportunities for targeted promotions on these high-demand dishes.
-  
+
+  <img width="293" alt="image" src="https://github.com/user-attachments/assets/944c216a-7e6a-444e-bdd2-4bccc993a9f0">
+
 
 
