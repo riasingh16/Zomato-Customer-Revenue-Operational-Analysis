@@ -34,8 +34,7 @@ Zomato’s database, as seen below, consists of five tables—customers, restaur
     This highlights the importance of these dishes in Zomato’s revenue stream.
   - **High-value customers**, making up **25%** of the customer base, were found to have a substantial impact on Zomato's performance. These top-tier customers placed an 
     average of **757 orders** and generated **$253,134** in revenue each, significantly outperforming the "Regular" customer group.
-  - In contrast, the remaining **75% of customers** were categorized as **Regular**, each generating below the threshold of **$243,223** in revenue and **733 orders**,       
-    indicating lower engagement and revenue.
+  - In contrast, the remaining **75% of customers** were categorized as **Regular**, each generating below the threshold of **$243,223** in revenue and **733 orders**, indicating lower engagement and revenue.
 
   ##### 2. Customer Behavior and Preferences
 - Chicken Biryani is consistently among the top 3 in all time slots (Breakfast, Dinner, and Midnight Snack), indicating it has broad appeal throughout the day.
