@@ -18,3 +18,4 @@ This project aims to thoroughly analyze and synthesize a self-created dataset co
 ### Data Structure Overview
 
 Zomato’s database, as seen below, consists of five tables—customers, restaurants, orders, riders, and deliveries—with a total of 10,000 records.
+
