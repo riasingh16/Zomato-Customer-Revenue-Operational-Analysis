@@ -27,8 +27,8 @@ Zomato’s database, as seen below, consists of five tables—customers, restaur
 ##### Revenue and Sales Performance:
 
 - The top five dishes account for **37%** of the total revenue over the analysis period. This significant contribution indicates that a small selection of popular items drives a large share of Zomato's income, suggesting opportunities for targeted promotions on these high-demand dishes.
-
-  <img width="293" alt="image" src="https://github.com/user-attachments/assets/944c216a-7e6a-444e-bdd2-4bccc993a9f0">
+- It turns out that the top dishes ordered by both **frequent** and **infrequent** customers are strikingly similar. Dishes like **Chicken Biryani, Pasta Alfredo, Paneer Butter Masala, Masala Dosa,** and **Mutton Rogan** Josh dominate both segments. This overlap suggests that these dishes have a universal appeal, resonating with a wide range of customer types.
+- These top 5 dishes aren't just popular in terms of order frequency — they are also the **top revenue generators**, collectively contributing to **37% of total revenue**. This highlights the importance of these dishes in Zomato’s revenue stream.
 
 
 
