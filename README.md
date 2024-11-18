@@ -1,6 +1,6 @@
-### Zomato Data Analysis
+## Zomato Data Analysis
 
-#### Project Overview
+### Project Overview
 Zomato is an Indian multinational restaurant aggregator and food delivery company. Its platform connects customers, restaurant partners, and delivery partners, serving their multiple needs. 
 
 This project aims to thoroughly analyze and synthesize a self-created dataset containing 10,000 rows of orders to uncover critical insights that will improve Zomato’s commercial success.
@@ -15,18 +15,18 @@ This project aims to thoroughly analyze and synthesize a self-created dataset co
 - **Percentage of Restaurants Open Late:** Identifies the proportion of restaurants open past 10 PM, segmented by city, to analyze areas with more late-night dining options.
 - **Rider Efficiency:** Measures the average star rating of each rider, focusing on those with ratings above 4.3 to identify high-performing riders.
 
-#### Data Structure Overview
+### Data Structure Overview
 
 Zomato’s database, as seen below, consists of five tables—customers, restaurants, orders, riders, and deliveries—with a total of 10,000 records.
 
 ![zomato_analysis_schema](https://github.com/user-attachments/assets/eef4aa87-92c8-4d51-bad6-1149d9188959)
 
-#### Executive Summary 
+### Executive Summary 
 
 Zomato's performance is driven by a few key factors: **top dishes** like **Chicken Biryani** and **Paneer Butter Masala** contribute **37% of total revenue**, with strong appeal across both **frequent** and **infrequent** customers. **High-value customers**, making up **25%** of the base, generate significantly higher revenue than **regular customers**. Operationally, **73% of riders** maintain strong performance with ratings of **4.2 or higher**, but lower-rated riders may benefit from targeted support. The **late-night dining scene** is dominated by **Bengaluru** and **Delhi**, accounting for **51.41%** of late-night restaurants, indicating potential for growth in other cities. These insights suggest areas to optimize revenue, customer engagement, and operational efficiency.
 
-#### Insights 
-##### 1. Revenue and Sales Performance:
+### Insights 
+#### 1. Revenue and Sales Performance:
   - The top five dishes account for **37%** of the **total revenue** over the analysis period. This significant contribution indicates that a **small selection of popular 
     items** drives a **large share of Zomato's income**.
   - It turns out that the top dishes ordered by both **frequent** and **infrequent** customers are strikingly similar. Dishes like **Chicken Biryani, Pasta Alfredo, Paneer 
@@ -36,15 +36,17 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
     average of **757 orders** and generated **$253,134** in revenue each, significantly outperforming the "Regular" customer group.
   - In contrast, the remaining **75% of customers** were categorized as **Regular**, each generating below the threshold of **$243,223** in revenue and **733 orders**, indicating lower engagement and revenue.
 
-  ##### 2. Customer Behavior and Preferences
+  #### 2. Customer Behavior and Preferences
 
 - **Chicken Biryani** is consistently among the **top 3 dishes** across **all time slots** (Breakfast, Dinner, and Midnight Snack), showcasing its broad appeal throughout the day. Additionally, **vegetarian options** like **Paneer Butter Masala and Masala Dosa** rank highly during **Breakfast, Lunch, and Dinner**, indicating their strong customer preference during peak dining times.
 - The **Midnight Snack** category has **low demand** (with orders generally under 50) , with **Masala Dosa** being the **most ordered** at **43 orders**, indicating a smaller but loyal customer base for late-night meals.
 - **Bengaluru** and **Delhi** have the most **robust late-night restaurant scenes**, accounting for **51.41%** of all late-night restaurants in the dataset (21 out of 41). This prominence could be attributed to their larger, younger, and more diverse populations, which drive higher demand for late-night dining.
 - The **low percentages** in cities like **Hyderabad, Chennai,** and **Ahmedabad** suggest an opportunity to expand late-night offerings to meet potential untapped demand.
 
-##### 3. Operational Efficiency
+#### 3. Operational Efficiency
 
 - **73% of riders** have an average rating of **4.2 or higher**, demonstrating strong fleet performance with the majority consistently providing efficient service. To capitalize on this, recognizing and rewarding these high performers could further boost service quality.
 - Additionally, **27% of riders** with ratings **closer to or below 3.7** may benefit from targeted support, such as training or route optimization, which could enhance their performance and elevate the overall fleet quality.
+
+### Recommendations 
 
