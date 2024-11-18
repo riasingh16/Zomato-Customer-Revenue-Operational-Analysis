@@ -29,6 +29,7 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
 #### 1. Revenue and Sales Performance:
   - The top five dishes account for **37%** of the **total revenue** over the analysis period. This significant contribution indicates that a **small selection of popular 
     items** drives a **large share of Zomato's income**.
+
   - It turns out that the top dishes ordered by both **frequent** and **infrequent** customers are strikingly similar. Dishes like **Chicken Biryani, Pasta Alfredo, Paneer 
     Butter Masala, Masala Dosa,** and **Mutton Rogan** Josh dominate both segments. This overlap suggests that these dishes have a universal appeal, resonating with a wide 
     range of customer types.
