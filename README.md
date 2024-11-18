@@ -23,7 +23,7 @@ Zomato’s database, as seen below, consists of five tables—customers, restaur
 
 #### Executive Summary 
 
-Zomato's performance is driven by a few key factors: top dishes like Chicken Biryani and Paneer Butter Masala contribute 37% of total revenue, with strong appeal across both frequent and infrequent customers. High-value customers, making up 25% of the base, generate significantly higher revenue than regular customers. Operationally, 73% of riders maintain strong performance with ratings of 4.2 or higher, but lower-rated riders may benefit from targeted support. The late-night dining scene is dominated by Bengaluru and Delhi, accounting for 51.41% of late-night restaurants, indicating potential for growth in other cities. These insights suggest areas to optimize revenue, customer engagement, and operational efficiency.
+Zomato's performance is driven by a few key factors: **top dishes** like **Chicken Biryani** and **Paneer Butter Masala** contribute **37% of total revenue**, with strong appeal across both **frequent** and **infrequent** customers. **High-value customers**, making up **25%** of the base, generate significantly higher revenue than **regular customers**. Operationally, **73% of riders** maintain strong performance with ratings of **4.2 or higher**, but lower-rated riders may benefit from targeted support. The **late-night dining scene** is dominated by **Bengaluru** and **Delhi**, accounting for **51.41%** of late-night restaurants, indicating potential for growth in other cities. These insights suggest areas to optimize revenue, customer engagement, and operational efficiency.
 
 #### Insights 
 ##### 1. Revenue and Sales Performance:
