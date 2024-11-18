@@ -37,6 +37,9 @@ Zomato’s database, as seen below, consists of five tables—customers, restaur
   - In contrast, the remaining **75% of customers** were categorized as **Regular**, each generating below the threshold of **$243,223** in revenue and **733 orders**, indicating lower engagement and revenue.
 
   ##### 2. Customer Behavior and Preferences
-- Chicken Biryani is consistently among the top 3 in all time slots (Breakfast, Dinner, and Midnight Snack), indicating it has broad appeal throughout the day.
-- Paneer Butter Masala ranks highly in Breakfast and Lunch, while Masala Dosa is also popular during Breakfast and Dinner. This suggests that vegetarian options like Paneer Butter Masala and Masala Dosa attract customers during peak dining times.
-- The Midnight Snack category has low demand (with orders generally under 50) , with Masala Dosa being the most ordered at 43 orders, indicating a smaller but loyal customer base for late-night meals.
+
+- **Chicken Biryani** is consistently among the **top 3 dishes** across **all time slots** (Breakfast, Dinner, and Midnight Snack), showcasing its broad appeal throughout the day. Additionally, **vegetarian options** like **Paneer Butter Masala and Masala Dosa** rank highly during **Breakfast, Lunch, and Dinner**, indicating their strong customer preference during peak dining times.
+- The **Midnight Snack** category has **low demand** (with orders generally under 50) , with **Masala Dosa** being the **most ordered** at **43 orders**, indicating a smaller but loyal customer base for late-night meals.
+- **Bengaluru** and **Delhi** have the most **robust late-night restaurant scenes**, accounting for **51.41%** of all late-night restaurants in the dataset (21 out of 41). This prominence could be attributed to their larger, younger, and more diverse populations, which drive higher demand for late-night dining.
+- The **low percentages** in cities like **Hyderabad, Chennai,** and **Ahmedabad** suggest an opportunity to expand late-night offerings to meet potential untapped demand.
+
