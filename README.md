@@ -29,12 +29,27 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
 #### 1. Revenue and Sales Performance:
   - The top five dishes account for **37%** of the **total revenue** over the analysis period. This significant contribution indicates that a **small selection of popular 
     items** drives a **large share of Zomato's income**.
+    
+<img width="440" align="center" alt="revenue_contribution" src="https://github.com/user-attachments/assets/d05e243d-2ab6-40b9-9c20-fd6136970229">
 
   - It turns out that the top dishes ordered by both **frequent** and **infrequent** customers are strikingly similar. Dishes like **Chicken Biryani, Pasta Alfredo, Paneer 
-    Butter Masala, Masala Dosa,** and **Mutton Rogan** Josh dominate both segments. This overlap suggests that these dishes have a universal appeal, resonating with a wide 
+    Butter Masala, Masala Dosa,** and **Mutton Rogan Josh** dominate both segments. This overlap suggests that these dishes have a universal appeal, resonating with a wide 
     range of customer types.
+
+<img width="530" align="center" alt="freq_infreq" src="https://github.com/user-attachments/assets/2ee94784-bf53-400a-ace9-65695f646cfe">
+
+
+<img width="503" align="center" alt="top_dish_segment" src="https://github.com/user-attachments/assets/0f32d878-3f60-4507-9f1b-7e6426164651">
+
+
   - **High-value customers**, making up **25%** of the customer base, were found to have a substantial impact on Zomato's performance. These top-tier customers placed an 
     average of **757 orders** and generated **$253,134** in revenue each, significantly outperforming the "Regular" customer group.
+
+    <img width="478" align="center" alt="cust_segment" src="https://github.com/user-attachments/assets/fb1441a7-b321-457e-b065-0b925d9cbd3a">
+
+    <img width="589" align="center" alt="revenue_vs_order_freq" src="https://github.com/user-attachments/assets/114246a3-480e-40db-b5c8-5cf25c6a133e">
+
+
   - In contrast, the remaining **75% of customers** were categorized as **Regular**, each generating below the threshold of **$243,223** in revenue and **733 orders**, indicating lower engagement and revenue.
 
   #### 2. Customer Behavior and Preferences
@@ -44,10 +59,16 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
 - **Bengaluru** and **Delhi** have the most **robust late-night restaurant scenes**, accounting for **51.41%** of all late-night restaurants in the dataset (21 out of 41). This prominence could be attributed to their larger, younger, and more diverse populations, which drive higher demand for late-night dining.
 - The **low percentages** in cities like **Hyderabad, Chennai,** and **Ahmedabad** suggest an opportunity to expand late-night offerings to meet potential untapped demand.
 
+<img width="530" align="center" alt="late_night_restaurants" src="https://github.com/user-attachments/assets/37de970d-ef01-4300-af10-8801f3b0c2c1">
+
+
 #### 3. Operational Efficiency
 
 - **73% of riders** have an average rating of **4.2 or higher**, demonstrating strong fleet performance with the majority consistently providing efficient service. To capitalize on this, recognizing and rewarding these high performers could further boost service quality.
 - Additionally, **27% of riders** with ratings **closer to or below 3.7** may benefit from targeted support, such as training or route optimization, which could enhance their performance and elevate the overall fleet quality.
+
+<img width="467" align="center" alt="high_performers" src="https://github.com/user-attachments/assets/bcb2ed7e-399c-4502-9f10-618bac8761b1">
+
 
 ### Recommendations 
 
