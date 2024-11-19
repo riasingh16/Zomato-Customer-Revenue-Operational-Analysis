@@ -78,28 +78,38 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
 
 ### Recommendations 
 
-1. Revenue Generation & Dish Promotion
+**1. Revenue Generation & Dish Promotion**
    
   Problem: A significant portion of revenue is driven by a small selection of dishes, with the top 5 accounting for 37% of total revenue.
 
   Solution: Promote high-performing dishes through targeted marketing (in-app recommendations, email marketing) and dynamic pricing during peak hours. Create combo deals      pairing popular dishes with underperforming items. Introduce varying portion sizes (e.g., snack-size, family-size) to cater to different customer needs and increase order 
   value.
   
-2. Customer Engagement & Retention
+**2. Customer Engagement & Retention**
 
-Problem: Maintaining customer loyalty while boosting the engagement of infrequent buyers.
+**Problem:** Maintaining customer loyalty while boosting the engagement of infrequent buyers.
 
-Solution: Launch a loyalty program offering discounts on popular dishes like Chicken Biryani and Paneer Butter Masala for frequent customers. Create promotional campaigns (e.g., buy-one-get-one-free) for infrequent customers to encourage higher engagement. Upsell at checkout with combo offers for frequent customers, encouraging them to add complementary items to their orders.
+**Solution:** Launch a loyalty program offering discounts on popular dishes like Chicken Biryani and Paneer Butter Masala for frequent customers. Create promotional campaigns (e.g., buy-one-get-one-free) for infrequent customers to encourage higher engagement. Upsell at checkout with combo offers for frequent customers, encouraging them to add complementary items to their orders.
 
-3. Operational Efficiency & Menu Optimization
+**3. Operational Efficiency & Menu Optimization**
    
-Problem: Ensuring high demand dishes are always in stock and prepared efficiently during peak hours.
+**Problem:** Ensuring high demand dishes are always in stock and prepared efficiently during peak hours.
 
-Solution: Use popularity data (e.g., Chicken Biryani and Masala Dosa) to optimize kitchen staffing and ingredient procurement during lunch, dinner, and late-night shifts.
-Focus on promoting popular midnight snacks like Masala Dosa and Pasta Alfredo during late-night hours. Offer discounts or combos for late-night orders and run targeted ads on food delivery platforms.
+**Solution:** Use popularity data (e.g., Chicken Biryani and Masala Dosa) to optimize kitchen staffing and ingredient procurement during lunch, dinner, and late-night shifts. Focus on promoting popular midnight snacks like Masala Dosa and Pasta Alfredo during late-night hours. Offer discounts or combos for late-night orders and run targeted ads on food delivery platforms.
 
-4. Rider Performance & Service Quality
+**4. Rider Performance & Service Quality**
    
-Problem: Ensuring consistent and efficient delivery service.
+**Problem:** Ensuring consistent and efficient delivery service.
 
-Solution: Set a performance benchmark (e.g., an average star rating of 4.3) for "exemplary" riders, rewarding them with incentives like monetary bonuses or recognition as "Rider of the Month". Provide targeted support or training for riders with ratings below 3.8, tracking their progress post-training.
+**Solution:** Set a performance benchmark (e.g., an average star rating of 4.3) for "exemplary" riders, rewarding them with incentives like monetary bonuses or recognition as "Rider of the Month". Provide targeted support or training for riders with ratings below 3.8, tracking their progress post-training.
+
+
+### Caveat
+
+It is important to note that this project is based on a self-created dataset designed to simulate real-world scenarios for analytical purposes. As such, the insights and findings derived from the analysis are not reflective of actual operational data or customer behavior from Zomato or any other organization. These results are hypothetical and intended solely for learning and demonstration purposes.
+
+### Tools and Technologies
+
+**SQL**: Data querying and aggregation.
+**Python**: Data analysis and visualization.
+**Visualization Libraries**: Matplotlib, Seaborn.
