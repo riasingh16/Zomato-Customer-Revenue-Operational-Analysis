@@ -1,4 +1,4 @@
-## Zomato Case Study: Actionable Insights from Simulated Restaurant Data
+## Zomato Case Study: Unlocking Customer and Operational Insights for Commercial Success
 
 ### Project Overview
 Zomato is an Indian multinational restaurant aggregator and food delivery company. Its platform connects customers, restaurant partners, and delivery partners, serving their multiple needs. 
