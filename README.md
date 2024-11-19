@@ -80,10 +80,9 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
 
 **1. Revenue Generation & Dish Promotion**
    
-  Problem: A significant portion of revenue is driven by a small selection of dishes, with the top 5 accounting for 37% of total revenue.
+  **Problem:** A significant portion of revenue is driven by a small selection of dishes, with the top 5 accounting for 37% of total revenue.
 
-  Solution: Promote high-performing dishes through targeted marketing (in-app recommendations, email marketing) and dynamic pricing during peak hours. Create combo deals      pairing popular dishes with underperforming items. Introduce varying portion sizes (e.g., snack-size, family-size) to cater to different customer needs and increase order 
-  value.
+  **Solution:** Pro ote high-performing dishes through targeted marketing (in-app recommendations, email marketing) and dynamic pricing during peak hours. Create combo deals pairing popular dishes with underperforming items. Introduce varying portion sizes (e.g., snack-size, family-size) to cater to different customer needs and increase order value.
   
 **2. Customer Engagement & Retention**
 
