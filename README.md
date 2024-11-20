@@ -60,6 +60,9 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
 
 
 - The **Midnight Snack** category has **low demand** (with orders generally under 50) , with **Masala Dosa** being the **most ordered** at **43 orders**, indicating a smaller but loyal customer base for late-night meals.
+
+  <img width="503" alt="monthly_trend_dishes" src="https://github.com/user-attachments/assets/3e2ce41f-87cb-4896-bdbb-b158da569d6b">
+
 - **Bengaluru** and **Delhi** have the most **robust late-night restaurant scenes**, accounting for **51.41%** of all late-night restaurants in the dataset (21 out of 41). This prominence could be attributed to their larger, younger, and more diverse populations, which drive higher demand for late-night dining.
 - The **low percentages** in cities like **Hyderabad, Chennai,** and **Ahmedabad** suggest an opportunity to expand late-night offerings to meet potential untapped demand.
 
