@@ -1,6 +1,6 @@
 ## Zomato Case Study: Unlocking Customer and Operational Insights for Commercial Success
 
-### Project Overview
+### Project Overview:
 Zomato is an Indian multinational restaurant aggregator and food delivery company. Its platform connects customers, restaurant partners, and delivery partners, serving their multiple needs. 
 
 This project aims to thoroughly analyze and synthesize a self-created dataset containing 10,000 rows of orders to uncover critical insights that will improve Zomato’s commercial success.
@@ -15,17 +15,17 @@ This project aims to thoroughly analyze and synthesize a self-created dataset co
 - **Percentage of Restaurants Open Late:** Identifies the proportion of restaurants open past 10 PM, segmented by city, to analyze areas with more late-night dining options.
 - **Rider Efficiency:** Measures the average star rating of each rider, focusing on those with ratings above 4.3 to identify high-performing riders.
 
-### Data Structure Overview
+### Data Structure Overview:
 
 Zomato’s database, as seen below, consists of five tables—customers, restaurants, orders, riders, and deliveries—with a total of 10,000 records.
 
 ![zomato_analysis_schema](https://github.com/user-attachments/assets/eef4aa87-92c8-4d51-bad6-1149d9188959)
 
-### Executive Summary 
+### Executive Summary: 
 
 Zomato's performance is driven by a few key factors: **top dishes** like **Chicken Biryani** and **Paneer Butter Masala** contribute **37% of total revenue**, with strong appeal across both **frequent** and **infrequent** customers. **High-value customers**, making up **25%** of the base, generate significantly higher revenue than **regular customers**. Operationally, **73% of riders** maintain strong performance with ratings of **4.2 or higher**, but lower-rated riders may benefit from targeted support. The **late-night dining scene** is dominated by **Bengaluru** and **Delhi**, accounting for **51.41%** of late-night restaurants, indicating potential for growth in other cities. These insights suggest areas to optimize revenue, customer engagement, and operational efficiency.
 
-### Insights 
+### Insights:
 #### 1. Revenue and Sales Performance:
   - The top five dishes account for **37%** of the **total revenue** over the analysis period. This significant contribution indicates that a **small selection of popular 
     items** drives a **large share of Zomato's income**.
@@ -76,7 +76,7 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
 <img width="467" align="center" alt="high_performers" src="https://github.com/user-attachments/assets/bcb2ed7e-399c-4502-9f10-618bac8761b1">
 
 
-### Recommendations 
+### Recommendations:
 
 **1. Revenue Generation & Dish Promotion**
    
@@ -103,11 +103,11 @@ Zomato's performance is driven by a few key factors: **top dishes** like **Chick
   **Solution:** Set a performance benchmark (e.g., an average star rating of 4.3) for "exemplary" riders, rewarding them with incentives like monetary bonuses or recognition as "Rider of the Month". Provide targeted support or training for riders with ratings below 3.8, tracking their progress post-training.
 
 
-### Caveat
+### Caveat:
 
 It is important to note that this project is based on a self-created dataset designed to simulate real-world scenarios for analytical purposes. As such, the insights and findings derived from the analysis are not reflective of actual operational data or customer behavior from Zomato or any other organization. These results are hypothetical and intended solely for learning and demonstration purposes.
 
-### Tools and Technologies
+### Tools and Technologies:
 
 **SQL**: Data querying and aggregation.
 **Python**: Data analysis and visualization.
