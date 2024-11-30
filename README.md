@@ -112,6 +112,6 @@ It is important to note that this project is based on a self-created dataset des
 
 ### Tools and Technologies:
 
-**SQL**: Data querying and aggregation.
-**Python**: Data analysis and visualization.
-**Visualization Libraries**: Matplotlib, Seaborn.
+- **SQL**: Data querying and aggregation.
+- **Python**: Data analysis and visualization.
+- **Visualization Libraries**: Matplotlib, Seaborn.
